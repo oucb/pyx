@@ -1,0 +1,2 @@
+# pyx
+theme for zsh
